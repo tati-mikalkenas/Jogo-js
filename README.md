@@ -15,6 +15,7 @@
 
 # :computer: Tecnologias Utilizadas
 ![Badge JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=yellow)
+![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 
 
 **Se você gostou desse projeto, classifica ele para mim com as :star2:, e se ficou com alguma dúvida, pode se sentir a vontade para me contatar.**
