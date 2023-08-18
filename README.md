@@ -14,7 +14,8 @@
 **Você pode acessar o jogo por meio do link a seguir: https://editor.p5js.org/tatiane.mikal/full/cDZK5dZUG. Teste quantos pontos consegue atingir e me conte depois, combinado?**
 
 # :computer: Tecnologias Utilizadas
-![Badge JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 
 
 **Se você gostou desse projeto, classifica ele para mim com as :star2:, e se ficou com alguma dúvida, pode se sentir a vontade para me contatar.**
