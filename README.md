@@ -11,7 +11,7 @@
 
 # 📁 Acesso ao projeto
 
-**Você pode acessar o jogo por meio do GitHub pages que está ativo, ele se encontra do lado direito da sua tela. Teste quantos pontos consegue atingir e me conte depois, combinado?**
+**Você pode acessar o jogo por meio do link a seguir: https://editor.p5js.org/tatiane.mikal/full/cDZK5dZUG. Teste quantos pontos consegue atingir e me conte depois, combinado?**
 
 # :computer: Tecnologias Utilizadas
 ![Badge JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=yellow)
