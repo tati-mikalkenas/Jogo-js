@@ -14,7 +14,7 @@
 **Você pode acessar o jogo por meio do GitHub pages que está ativo, ele se encontra do lado direito da sua tela. Teste quantos pontos consegue atingir e me conte depois, combinado?**
 
 # :computer: Tecnologias Utilizadas
-![Badge JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Badge JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=yellow)
 
 
 **Se você gostou desse projeto, classifica ele para mim com as :star2:, e se ficou com alguma dúvida, pode se sentir a vontade para me contatar.**
